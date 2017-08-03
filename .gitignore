@@ -1,0 +1,9 @@
+Build
+_build
+blib
+MYMETA*
+MANIFEST.SKIP.bak
+*.swp
+*.swo
+Makefile
+MANIFEST
